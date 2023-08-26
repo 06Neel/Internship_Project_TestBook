@@ -13,13 +13,13 @@ This Streamlit app enables users to predict sales using machine learning techniq
 
 ## Live Deployment
 
-The Sales Prediction Streamlit app is live and can be accessed using the following link: [Sales Prediction Streamlit App](https://your-streamlit-app-url.com/)
+The Sales Prediction Streamlit app is live and can be accessed using the following link: [Sales Prediction Streamlit App](https://internship-project-testbook-by-06neel.streamlit.app/)
 
 Feel free to explore the app and experiment with different input scenarios to observe how the model predicts sales based on the provided data.
 
 ## Usage
 
-1. Access the Streamlit app using the provided link: [Sales Prediction Streamlit App](https://your-streamlit-app-url.com/)
+1. Access the Streamlit app using the provided link: [Sales Prediction Streamlit App](https://internship-project-testbook-by-06neel.streamlit.app/)
 2. Interact with the user interface to input the relevant features for a sales prediction.
 3. Observe the predicted sales amount based on the provided features.
 
