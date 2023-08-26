@@ -29,7 +29,7 @@ To run the Sales Prediction Streamlit App locally on your machine, follow these 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/sales-prediction-streamlit.git
+   git clone https://github.com/06Neel/Internship_Project_TestBook.git
 2. Navigate to the project directory:
    ```bash
     cd sales-prediction-app
